@@ -1,0 +1,36 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+DodgeCyclePartsandGeneralMerchandize
+</name>
+</assembly>
+<members>
+<member name="P:Dodge_Cycle_Parts_and_General_Merchandize.My.Resources.Resources.ResourceManager">
+	<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member><member name="P:Dodge_Cycle_Parts_and_General_Merchandize.My.Resources.Resources.Culture">
+	<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member><member name="P:Dodge_Cycle_Parts_and_General_Merchandize.My.Resources.Resources.refresh">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Dodge_Cycle_Parts_and_General_Merchandize.My.Resources.Resources.refresh_png2">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Dodge_Cycle_Parts_and_General_Merchandize.My.Resources.Resources.search">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="T:Dodge_Cycle_Parts_and_General_Merchandize.My.Resources.Resources">
+	<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+</members>
+</doc>

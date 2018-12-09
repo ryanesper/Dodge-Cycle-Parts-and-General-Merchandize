@@ -1,0 +1,23 @@
+C:\Users\ryan\AppData\Local\Temporary Projects\Dodge Cycle Parts and General Merchandize\bin\Debug\Dodge Cycle Parts and General Merchandize.exe.config
+D:\Programming\VB.NET\Dodge Cycle Parts and General Merchandize\Dodge Cycle Parts and General Merchandize\bin\Debug\Dodge Cycle Parts and General Merchandize.exe.config
+D:\Programming\VB.NET\Dodge Cycle Parts and General Merchandize\Dodge Cycle Parts and General Merchandize\bin\Debug\Dodge Cycle Parts and General Merchandize.exe
+D:\Programming\VB.NET\Dodge Cycle Parts and General Merchandize\Dodge Cycle Parts and General Merchandize\bin\Debug\Dodge Cycle Parts and General Merchandize.pdb
+D:\Programming\VB.NET\Dodge Cycle Parts and General Merchandize\Dodge Cycle Parts and General Merchandize\bin\Debug\Dodge Cycle Parts and General Merchandize.xml
+D:\Programming\VB.NET\Dodge Cycle Parts and General Merchandize\Dodge Cycle Parts and General Merchandize\bin\Debug\MySql.Data.DLL
+D:\Programming\VB.NET\Dodge Cycle Parts and General Merchandize\Dodge Cycle Parts and General Merchandize\obj\Debug\Dodge Cycle Parts and General Merchandize.vbprojResolveAssemblyReference.cache
+D:\Programming\VB.NET\Dodge Cycle Parts and General Merchandize\Dodge Cycle Parts and General Merchandize\obj\Debug\Dodge_Cycle_Parts_and_General_Merchandize.frmadminregistration.resources
+D:\Programming\VB.NET\Dodge Cycle Parts and General Merchandize\Dodge Cycle Parts and General Merchandize\obj\Debug\Dodge_Cycle_Parts_and_General_Merchandize.frmchangepassword.resources
+D:\Programming\VB.NET\Dodge Cycle Parts and General Merchandize\Dodge Cycle Parts and General Merchandize\obj\Debug\Dodge_Cycle_Parts_and_General_Merchandize.frmdatabaseconnector.resources
+D:\Programming\VB.NET\Dodge Cycle Parts and General Merchandize\Dodge Cycle Parts and General Merchandize\obj\Debug\Dodge_Cycle_Parts_and_General_Merchandize.frmlogin.resources
+D:\Programming\VB.NET\Dodge Cycle Parts and General Merchandize\Dodge Cycle Parts and General Merchandize\obj\Debug\Dodge_Cycle_Parts_and_General_Merchandize.frmmain.resources
+D:\Programming\VB.NET\Dodge Cycle Parts and General Merchandize\Dodge Cycle Parts and General Merchandize\obj\Debug\Dodge_Cycle_Parts_and_General_Merchandize.frmpurchaseitem.resources
+D:\Programming\VB.NET\Dodge Cycle Parts and General Merchandize\Dodge Cycle Parts and General Merchandize\obj\Debug\Dodge_Cycle_Parts_and_General_Merchandize.frmpurchaseitems.resources
+D:\Programming\VB.NET\Dodge Cycle Parts and General Merchandize\Dodge Cycle Parts and General Merchandize\obj\Debug\Dodge_Cycle_Parts_and_General_Merchandize.Resources.resources
+D:\Programming\VB.NET\Dodge Cycle Parts and General Merchandize\Dodge Cycle Parts and General Merchandize\obj\Debug\Dodge Cycle Parts and General Merchandize.vbproj.GenerateResource.Cache
+D:\Programming\VB.NET\Dodge Cycle Parts and General Merchandize\Dodge Cycle Parts and General Merchandize\obj\Debug\Dodge Cycle Parts and General Merchandize.exe
+D:\Programming\VB.NET\Dodge Cycle Parts and General Merchandize\Dodge Cycle Parts and General Merchandize\obj\Debug\Dodge Cycle Parts and General Merchandize.xml
+D:\Programming\VB.NET\Dodge Cycle Parts and General Merchandize\Dodge Cycle Parts and General Merchandize\obj\Debug\Dodge Cycle Parts and General Merchandize.pdb
+D:\Programming\VB.NET\Systems\Dodge Cycle Parts and General Merchandize\Dodge Cycle Parts and General Merchandize\bin\Debug\Dodge Cycle Parts and General Merchandize.exe.config
+D:\Programming\VB.NET\Systems\Dodge Cycle Parts and General Merchandize\Dodge Cycle Parts and General Merchandize\obj\Debug\Dodge Cycle Parts and General Merchandize.exe
+D:\Programming\VB.NET\Systems\Dodge Cycle Parts and General Merchandize\Dodge Cycle Parts and General Merchandize\obj\Debug\Dodge Cycle Parts and General Merchandize.xml
+D:\Programming\VB.NET\Systems\Dodge Cycle Parts and General Merchandize\Dodge Cycle Parts and General Merchandize\obj\Debug\Dodge Cycle Parts and General Merchandize.pdb
